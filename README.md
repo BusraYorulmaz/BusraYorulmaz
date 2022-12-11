@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on mobile development
+- 🌱 I’m currently learning flutter and dart
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BusraYorulmaz)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **BusraYorulmaz/BusraYorulmaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
