@@ -9,6 +9,16 @@
 
 [linkedin]:https://www.linkedin.com/in/b%C3%BC%C5%9Fra-yorulmaz-873563194/
 [twitter]:https://twitter.com/BraYORULMAZ12?t=pBR1zRkOxm7elocxHUBqUQ&s=09
+<br />
+<br />
+### Tech I use
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"width="25" height="25">
+
+https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png
+https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png
+https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png
+https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png
+https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BusraYorulmaz)](https://github.com/anuraghazra/github-readme-stats)
