@@ -32,7 +32,6 @@
 
 ![Busra's GitHub stats](https://github-readme-stats.vercel.app/api?username=BusraYorulmaz&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BusraYorulmaz&layout=compact)](https://github.com/BusraYorulmaz/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BusraYorulmaz)](https://github.com/BusraYorulmaz/github-readme-stats)
 
