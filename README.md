@@ -1,7 +1,12 @@
-### Hi there 👋
+### Hi there 👋 
 
 - 🔭 I’m currently working on mobile development
 - 🌱 I’m currently learning flutter and dart
+
+### Reach out to me
+[<img width="32" src="https://unpkg.com/simple-icons@v8/icons/linkedin.svg" />][linkedin]
+
+[linkedin]:https://www.linkedin.com/in/b%C3%BC%C5%9Fra-yorulmaz-873563194/
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BusraYorulmaz)](https://github.com/anuraghazra/github-readme-stats)
 
