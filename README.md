@@ -23,11 +23,9 @@
 <br />
 <br />
 
-<details>
-<summary>:bulb: Most Used Languages</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BusraYorulmaz&layout=compact" >
-</details>
+  
 
+[![Anurag's GitHub statss](https://github-readme-stats.vercel.app/api/top-langs/?username=BusraYorulmaz&layout=compact)](https://github.com/BusraYorulmaz/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BusraYorulmaz)](https://github.com/BusraYorulmaz/github-readme-stats)
 
