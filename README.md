@@ -10,7 +10,7 @@
 [linkedin]:https://www.linkedin.com/in/b%C3%BC%C5%9Fra-yorulmaz-873563194/
 [twitter]:https://twitter.com/BraYORULMAZ12?t=pBR1zRkOxm7elocxHUBqUQ&s=09
 <br />
-<br />
+
 ### Tech I use
 
  
