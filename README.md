@@ -12,6 +12,7 @@
 <br />
 
 ### Tech I use
+[<img width="32" src="https://unpkg.com/simple-icons@v8/icons/linkedin.svg" />]
 [<img width="32" src="https://unpkg.com/simple-icons@v8/icons/twitter.svg" />]
  
 
