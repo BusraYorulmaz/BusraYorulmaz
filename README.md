@@ -30,10 +30,7 @@
 
   
 
-![Busra's GitHub stats](https://github-readme-stats.vercel.app/api?username=BusraYorulmaz&show_icons=true&theme=radical)
-
-
-
+ 
 
  
 
