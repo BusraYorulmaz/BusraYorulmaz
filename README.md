@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on mobile development
 - 🌱 I’m currently learning flutter and dart
+- 🌱 I started learning .net maui
 
 ### Reach out to me
 [<img width="32" src="https://unpkg.com/simple-icons@v8/icons/linkedin.svg" />][linkedin]
