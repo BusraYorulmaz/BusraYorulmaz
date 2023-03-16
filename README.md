@@ -1,7 +1,6 @@
 ### Hi there 👋 
 
-- 🔭 I’m currently working on mobile development
-- 🌱 I’m currently learning flutter and dart
+- 🔭 I’m currently learning flutter and dart
 - 🌱 I started learning .net maui
 
 ### Reach out to me
