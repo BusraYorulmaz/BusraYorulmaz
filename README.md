@@ -2,6 +2,8 @@
 <h1 align="center"> Hi 👋, I'm Busra Yorulmaz</h1>
 
 🌱 I develop projects with C#, .Net, Web Api, MVC and .Net Maui.
+- I like mobile application development, so I developed projects with flutter and .net maui.
+- I started working on the web and I am enjoying it.
 
 <img align="right" width="300" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif"> 
 
