@@ -1,8 +1,7 @@
  
 <h1 align="center"> Hi 👋, I'm Busra Yorulmaz</h1>
 
-- 🔭 I’m currently learning Flutter and Dart
-- 🌱 I started learning C#, .Net and .Net Maui
+🌱 I develop projects with C#, .Net, Web Api, MVC and .Net Maui.
 
 <img align="right" width="300" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif"> 
 
